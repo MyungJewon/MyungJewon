@@ -1,5 +1,5 @@
 ### Hi there, I'm Jewon Myung 👋
-> **Game Client Developer** | Focusing on Optimization, Graphics, and Engine Architecture.
+> **Client Developer** | Focusing on Optimization, Graphics, and Engine Architecture.
 
 연구소와 실무 현장에서 **그래픽스 이론**과 **최적화 기술(Optimization)**을 단단히 다져왔습니다.
 화려한 겉모습보다는 보이지 않는 내부 로직을 효율적으로 설계하여, 극한의 성능을 이끌어내는 것에 몰입합니다.
